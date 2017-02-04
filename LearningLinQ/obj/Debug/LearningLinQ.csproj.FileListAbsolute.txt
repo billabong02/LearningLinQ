@@ -1,0 +1,6 @@
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\LearningLinQ\LearningLinQ\bin\Debug\LearningLinQ.exe.config
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\LearningLinQ\LearningLinQ\obj\Debug\LearningLinQ.csprojResolveAssemblyReference.cache
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\LearningLinQ\LearningLinQ\bin\Debug\LearningLinQ.exe
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\LearningLinQ\LearningLinQ\bin\Debug\LearningLinQ.pdb
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\LearningLinQ\LearningLinQ\obj\Debug\LearningLinQ.exe
+c:\users\bilawal\desktop\documents\visual studio 2015\Projects\LearningLinQ\LearningLinQ\obj\Debug\LearningLinQ.pdb
